@@ -6,19 +6,21 @@ Ini Library untuk menampilkan toast
 
 ### Step 1. Add the JitPack repository to your build file
 
-```allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+```
+allprojects {
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
 	}
+}
 ```
   
 ### Step 2. Add the dependency
 
-```dependencies {
-	        implementation 'com.github.wahyu-pro:toast-library:Tag'
-	}
+```
+dependencies {
+	implementation 'com.github.wahyu-pro:toast-library:Tag'
+}
 ```
   
 ## Usage example
