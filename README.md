@@ -11,13 +11,15 @@ Ini Library untuk menampilkan toast
 			...
 			maven { url 'https://jitpack.io' }
 		}
-	}```
+	}
+```
   
 ### Step 2. Add the dependency
 
 ```dependencies {
 	        implementation 'com.github.wahyu-pro:toast-library:Tag'
-	}```
+	}
+```
   
 ## Usage example
 
