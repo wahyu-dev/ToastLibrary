@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/abdur-rohman2883/custom-adapter.svg)](https://jitpack.io/#abdur-rohman2883/custom-adapter)
+[![](https://jitpack.io/v/wahyu-pro/toast-library.svg)](https://jitpack.io/#wahyu-pro/toast-library)
 
 # Toast Library
 
