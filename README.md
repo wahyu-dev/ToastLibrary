@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/abdur-rohman2883/custom-adapter.svg)](https://jitpack.io/#abdur-rohman2883/custom-adapter)
+
 # Toast Library
 
 Ini Library untuk menampilkan toast
