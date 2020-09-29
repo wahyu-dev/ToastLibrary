@@ -2,7 +2,7 @@
 
 # Toast Library
 
-Ini Library untuk menampilkan toast
+> Ini Library untuk menampilkan toast
 
 ## Installation
 
